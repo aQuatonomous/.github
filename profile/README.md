@@ -1,6 +1,5 @@
-# Welcome to aQuatonomous!
 
-
+![Banner of the aQuatonomous logo and name.](https://github.com/aQuatonomous/assets_library/blob/bcf1e1a1e2fa34f0ba41c7ead2cafd755e4fbae7/aQuatonomous-banner-transparent.png)
 
 Welcome to the ***aQuatonomous*** GitHub repository! 
 
