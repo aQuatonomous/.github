@@ -1,7 +1,7 @@
 
 ![Banner of the aQuatonomous logo and name.](https://github.com/aQuatonomous/assets_library/blob/bcf1e1a1e2fa34f0ba41c7ead2cafd755e4fbae7/aQuatonomous-banner-white.png)
 
-Welcome to the ***aQuatonomous*** GitHub repository! 
+Welcome to the ***aQuatonomous*** GitHub organization! 
 
 ***aQuatonomous*** is a new interdisciplinary design team at Queen's University aiming to build an X-class autonomous surface vessel (ASV) with the intention of participating in RoboNation's RoboBoat competition in February 2025.
 
