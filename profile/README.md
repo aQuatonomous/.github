@@ -1,5 +1,5 @@
 
-![Banner of the aQuatonomous logo and name.](https://github.com/aQuatonomous/assets_library/blob/bcf1e1a1e2fa34f0ba41c7ead2cafd755e4fbae7/aQuatonomous-banner-white.png)
+![Banner of the aQuatonomous logo and name.](https://github.com/aQuatonomous/.github/blob/0d6d880d5a952ce64feeea759788117d6876bf24/profile/aQuatonomous-banner-white.png)
 
 Welcome to the ***aQuatonomous*** GitHub organization! 
 
