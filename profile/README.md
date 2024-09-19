@@ -17,37 +17,11 @@ If you haven't already, please make sure to:
 -   Fill out the accessibility form if needed.
 
 ## Naming Scheme
-All repositories should follow this format:
-`<subteam>_<dev or prod>_<project name>_<active or deprecated>`
-     
-### Subteam
-Choose the appropriate subteam for your repository:
-- `mechanical` for the Mechanical team
-- `electrical` for the Electrical team
-- `perception` for the Perception team
-- `autonomy` for the Autonomy team
-### Development Stage
+All repositories should have a descriptive snake_case name. Your README should look something like this [template](https://www.makeareadme.com/). Make sure to credit yourself, including your name, sub-team, program and the year!
 
-Indicate the development stage of the project:
-- `dev` for development
-- `prod` for production
-
-### Project Name
-
-Provide a concise and descriptive name for the project. This should reflect the primary focus or function of the project.
-
-### Status
-
-Specify the current status of the project:
-- `active` for ongoing projects
-- `deprecated` for projects that are no longer maintained
-
-### Examples
-
-- `mechanical_dev_hullDesign_active`
-- `electrical_prod_sensorSuite_deprecated`
-- `autonomy_dev_pathPlanning_active`
-
+### Naming Examples
+- a-star-path-planner
+- 3d-buoy-map-generator
 
 ## Competitions and Testing
 Our dynamic field tests will be held at Lake Ontario, with additional testing at on-campus water locations such as the ARC pool and the coastal research lab. We are also preparing for the RoboNation's RoboBoat Competition in February 2025 and the Toronto Solar Boat Race. Your contributions are crucial to our success in these events.
