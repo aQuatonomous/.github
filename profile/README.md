@@ -17,7 +17,7 @@ If you haven't already, please make sure to:
 -   Fill out the accessibility form if needed.
 
 ## Naming Scheme
-All repositories should have a descriptive snake_case name. Your README should look something like this [template](https://www.makeareadme.com/). Make sure to credit yourself, including your name, sub-team, program and the year!
+All repositories should have a descriptive kebab-case name. Your README should look something like this [template](https://www.makeareadme.com/). Make sure to credit yourself, including your name, sub-team, program and the year!
 
 ### Naming Examples
 - a-star-path-planner
