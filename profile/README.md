@@ -1,6 +1,6 @@
 # 🚢 Welcome to the **aQuatonomous** GitHub Organization! 🌊
 
-**aQuatonomous** is a multidisciplinary design team at Queen's University dedicated to developing an X-class autonomous surface vessel (ASV). We aim to compete in RoboNation’s RoboBoat competition and other sustainability-focused events, including the Toronto Solar Boat Race. ⚓️🤖☀️
+**aQuatonomous** is a multidisciplinary design team at Queen's University dedicated to developing an X-class autonomous surface vehicle (ASV). We aim to compete in RoboNation’s RoboBoat competition and other sustainability-focused events, including the Toronto Solar Boat Race. ⚓️🤖☀️
 
 ---
 
